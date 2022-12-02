@@ -1,1 +1,1 @@
-# philosophers_problem
+# Philosophers Problem
