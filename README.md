@@ -17,6 +17,17 @@ The problem was designed to illustrate the challenges of avoiding deadlock, a sy
 * repeat from the beginning.
 However, they each will think for an undetermined amount of time and may end up holding a left fork thinking, staring at the right side of the plate, unable to eat because there is no right fork, until they starve.
 
+#PseudoCode
+```
+process P[i]
+ while true do
+   {  THINK;
+      PICKUP(CHOPSTICK[i], CHOPSTICK[i+1 mod 5]);
+      EAT;
+      PUTDOWN(CHOPSTICK[i], CHOPSTICK[i+1 mod 5])
+   }
+```
+
 ![image](https://github.com/saraheita/philosophers_problem/blob/ff62ee9e9529fc965e3c371f8aa71ba0b3c78ac1/philosophers_problem/dining_philosophers.png) 
 
 
