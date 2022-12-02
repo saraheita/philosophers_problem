@@ -17,6 +17,6 @@ The problem was designed to illustrate the challenges of avoiding deadlock, a sy
 * repeat from the beginning.
 However, they each will think for an undetermined amount of time and may end up holding a left fork thinking, staring at the right side of the plate, unable to eat because there is no right fork, until they starve.
 
-![image](https://github.com/saraheita/philosphers_problem/dining_philosophers.png) 
+![image](https://github.com/saraheita/philosophers_problem/philosophers_problem/dining_philosophers.png) 
 
 
