@@ -1,0 +1,15 @@
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\bin\Debug\net6.0\solution_using_semaphores2.exe
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\bin\Debug\net6.0\solution_using_semaphores2.deps.json
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\bin\Debug\net6.0\solution_using_semaphores2.runtimeconfig.json
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\bin\Debug\net6.0\solution_using_semaphores2.dll
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\bin\Debug\net6.0\solution_using_semaphores2.pdb
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\obj\Debug\net6.0\solution_using_semaphores2.csproj.AssemblyReference.cache
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\obj\Debug\net6.0\solution_using_semaphores2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\obj\Debug\net6.0\solution_using_semaphores2.AssemblyInfoInputs.cache
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\obj\Debug\net6.0\solution_using_semaphores2.AssemblyInfo.cs
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\obj\Debug\net6.0\solution_using_semaphores2.csproj.CoreCompileInputs.cache
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\obj\Debug\net6.0\solution_using_semaphores2.dll
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\obj\Debug\net6.0\refint\solution_using_semaphores2.dll
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\obj\Debug\net6.0\solution_using_semaphores2.pdb
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\obj\Debug\net6.0\solution_using_semaphores2.genruntimeconfig.cache
+C:\Users\sarah\OneDrive\Desktop\OS_Class\philosophers_problem\solution_using_semaphores2\obj\Debug\net6.0\ref\solution_using_semaphores2.dll
